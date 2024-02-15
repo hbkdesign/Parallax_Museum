@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500&display=swap');
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.parallax-section {
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax1 {
+    background-image: url('/parallax_1.webp');
+}
+
+#parallax2 {
+    background-image: url('/Michelangelo_-_Creation_of_Adam.jpg');
+}
+
+/* Continue for additional sections */
+#parallax3 {
+    background-image: url('/MASSACRE_OF_THE_INNOCENTS.jpeg');
+}
+
+#parallax4 {
+    background-image: url('/school_of_athens.jpeg');
+}
+
+#parallax5 {
+    background-image: url('/last_supper.jpeg');
+}
+
+#parallax6 {
+    background-image: url('/Starry-Night.jpeg');
+}
+
+#parallax7 {
+    background-image: url('/the_Scream.jpeg');
+}
+
+#parallax8 {
+    background-image: url('/Persistence_of_memory_Dali.jpeg');
+}
+
+#parallax9 {
+    background-image: url('/girl_with_a_pearl_earring.jpeg');
+}
+
+#parallax10 {
+    background-image: url('/mona.jpeg');
+}
+
+#parallax11 {
+    background-image: url('/Sacred_and_Profane_Love_by_Tiziano_Vecelli.jpeg');
+}
+
+#parallax12 {
+    background-image: url('/The_Tower_of_Babel_by_Pieter_Bruegel.jpeg');
+}
+
+#parallax13 {
+    background-image: url('/dog_1.jpeg');
+}
+
+#parallax14 {
+    background-image: url('/dog_2.jpeg');
+}
+
+#parallax15 {
+    background-image: url('/dog_3.jpeg');
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200px;
+    font-size: 20px;
+}
